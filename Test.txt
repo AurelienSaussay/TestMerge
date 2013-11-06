@@ -1,6 +1,7 @@
 ﻿Test
 
-Fichier à modifier par tout le monde
+à modifier par tout le monde
 COucou de Pierre
 
 On fusionnera maintenant !
+
